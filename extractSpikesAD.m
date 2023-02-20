@@ -1,4 +1,4 @@
-function extractSpikes(flPath,animalName,expDate,taskName,runNo,probeID,name,copyToZ,MUflag,legacyFlag,parts,JobID)
+function extractSpikesAD(flPath,animalName,expDate,taskName,runNo,probeID,name,copyToZ,MUflag,legacyFlag,parts,JobID)
 % extractSpikes computes spike waveforms
 % input parameters:
 % flPath - experiment folder e.g. '\Users\Anita\DATA\TDT\20220105\RFmap1'
